@@ -1,2 +1,2 @@
-# csef_2024
-Arduino Code for CSEF Project: Magnetically Powered Microbots for Treatment of Calcified Arterial Plaque
+# Description
+Arduino Code for CSEF 2024 Project: Magnetically Powered Microbots for Treatment of Calcified Arterial Plaque
